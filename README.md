@@ -20,7 +20,7 @@ Logistics shipment cost investigation (SQL + Tableau)	Traced an August cost spik
 Superstore multi-page dashboard (Tableau)	Multi-page sales and profit analysis
 Talabat operations analysis (SQL + Tableau)	Operations performance breakdown
 City comparison dashboard (Tableau)	Side-by-side city metrics
-
+Check out my portfolio for ConerstoneInsights here:
 https://available-can-02f.notion.site/Cornerstones-Insights-Portfolio-3974879009b88036ad1cc901ca4b9175?pvs=74
 
 Currently building toward
