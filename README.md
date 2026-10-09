@@ -1,6 +1,6 @@
 # Hi, There 👋
 
-**Founder of [Cornerstones Insights](https://cornerstonesinsights.com)**: data analytics for hospitality, e-commerce & small businesses.
+**Founder of Cornerstones Insights**: data analytics for hospitality, e-commerce & small businesses.
 **Aspiring ML engineer** in finance/trading and computer vision.
 
 > "Whatever you do, work at it with all your heart, as working for the Lord." (Col 3:23)
