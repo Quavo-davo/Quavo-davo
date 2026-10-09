@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Hi, I'm Dave 👋
-
 Founder of Cornerstones Insights, a data analytics agency for hospitality, e-commerce, and small businesses. Aspiring ML engineer focused on finance/trading and computer vision.
 
 "Whatever you do, work at it with all your heart, as working for the Lord." (Col 3:23)
