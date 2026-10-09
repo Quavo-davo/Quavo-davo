@@ -15,4 +15,5 @@ I turn messy sales and cost data into clear decisions, with SQL, Python and Tabl
 - **Exploring:** Python automation, Godot
 
 **Tools:** SQL · Python (pandas, numpy, matplotlib, sklearn) · Tableau · SQLite
+
  Italy · English, Italiano, Svenska
